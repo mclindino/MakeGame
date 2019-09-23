@@ -1,1 +1,1 @@
-# MakeGame
+### Maze Game
